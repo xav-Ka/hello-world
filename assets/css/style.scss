@@ -3,9 +3,12 @@
 
 @import "jekyll-theme-slate";
 
-nav ul, footer ul {
-    list-style: none;
-}
 nav ul li, footer ul li {
     display: inline;
+    list-style: none;
+    color: #999;
+    margin-right: 20px;
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+    text-decoration: none;
 }
