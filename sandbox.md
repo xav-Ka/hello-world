@@ -13,9 +13,6 @@ layout: default
                 <a href="/projects.html">Projects</a>
               </li>
                 <li>
-                <a href="/articles.html">Articles</a>
-              </li>
-                <li>
                 <a href="/sandbox.html">Sandbox</a>
               </li>
                 <li>
