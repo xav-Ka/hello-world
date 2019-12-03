@@ -9,6 +9,18 @@ layout: default
               <li>
                 <a href="/">Home</a>
               </li>
+                <li>
+                <a href="/projects.html">Projects</a>
+              </li>
+                <li>
+                <a href="/articles.html">Articles</a>
+              </li>
+                <li>
+                <a href="/sandbox.html">Sandbox</a>
+              </li>
+                <li>
+                <a href="/contact.html">Contact</a>
+              </li>
             </ul>
         </nav>
     </body>
@@ -25,4 +37,4 @@ The website is meant to host different kinds of experiments which I would like t
 
 ## Structure
 
-In progress....
+In progress ...
