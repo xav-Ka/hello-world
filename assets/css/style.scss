@@ -3,12 +3,14 @@
 
 @import "jekyll-theme-slate";
 
-nav ul li a {
+nav ul li {
     display: inline;
     list-style: none;
-    color: #585858;
     margin-right: 20px;
     margin: 20px auto 40px; 
     font-size: 1.3em;
     word-spacing: 1em;
+}
+nav ul li a {
+    color: #585858;
 }
