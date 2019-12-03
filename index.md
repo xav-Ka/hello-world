@@ -26,8 +26,6 @@ layout: default
     </body>
 </html>
   
-  
-[Link to another page](./another-page.html).
 
 # Welcome to my GitHub Webpages
 
