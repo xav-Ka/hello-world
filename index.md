@@ -27,4 +27,4 @@ layout: default
 # Welcome to my GitHub Webpages
 
 ## A word
-The website is meant to host different kinds of experiments which I would like to share with others. The main goal here is to have fun and gain more experience in machine learning. Feedback will always be most welcome and appreciated.
+The website is meant to host different kinds of experiments which I would like to share with others. The main goal here is to have fun while gaining more experience with machine learning algorithms. Feedback will always be most welcome and appreciated.
